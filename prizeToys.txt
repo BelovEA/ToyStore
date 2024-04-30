@@ -1,0 +1,1 @@
+ID: 2, Name: Lego Set, Quantity: 50, Chance to Drop: 15%
